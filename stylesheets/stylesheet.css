@@ -273,7 +273,7 @@ a {
 }
 
 .fa-instagram {
-  background: #c32aa3;
+  background: #fe4164;
   color: white;
 }
 
@@ -287,3 +287,17 @@ a {
   color: white;
 }
 
+.fa-whatsapp {
+  background: #4ac959;
+  color: white;
+}
+
+.fa-telegram {
+  background: #0088cc;
+  color: white;
+}
+
+.fa-mail-reply-all {
+  background: #00aff0;
+  color: white;
+}
