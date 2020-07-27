@@ -7,7 +7,7 @@ Go to projects from here <br>
 >> ### [GSM Based Home Automation Report](/projects/gha/GHA_report)
 > ## Wireless PS2 Remote Controlled 2WD 3 Wheel Robot Car
 > ### This was my first complete projects which involved programming Arduino Uno to take commands from a PS2 Controller and drive a robot car.
-> ### [PS2 Remote Controlled 2WD 3 Wheel Robot Car](/projects/uno_ps2_wireless_robotcar)
+>> ### [PS2 Remote Controlled 2WD 3 Wheel Robot Car](/projects/uno_ps2_wireless_robotcar)
 
 # Computer Science based Projects
 > ## Frontend Hotel Website
