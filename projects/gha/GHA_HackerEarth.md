@@ -1,4 +1,4 @@
-[<--Home](www.adivardhan.tech)
+[<--Home](https://www.adivardhan.tech)
 
 ## Objective:
 		* To develop a non-expensive Home control/Automation Solution
