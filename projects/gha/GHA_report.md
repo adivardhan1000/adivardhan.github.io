@@ -1,2 +1,2 @@
-[<--Home](www.adivardhan.tech)
+[<--Home](https://www.adivardhan.tech)
 
