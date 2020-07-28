@@ -1,3 +1,4 @@
+[<--Home](www.adivardhan.tech)
 # Course Details and Marksheets
 > ## [Semester 1](/education/marksheets/Semester1.pdf)
 > ## [Semester 2](/education/marksheets/Semester2.pdf)
