@@ -1,5 +1,6 @@
 ---
 title: Education
+tagline: Educational Details
 ---
 [<--Home](https://www.adivardhan.tech) 
 
