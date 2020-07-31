@@ -2,7 +2,7 @@
 title: Education
 layout: home
 ---
-[<--Home](https://www.adivardhan.tech)
+[Home](https://www.adivardhan.tech) 
 
 > ##  BE in Electronics and Communication (C.G.P.A: 8.27)
 > ### Shri Ramdeobaba College of Engineering and Management, Nagpur <br>[www.rknec.edu](https://www.rknec.edu)
