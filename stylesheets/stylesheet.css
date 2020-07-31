@@ -264,42 +264,41 @@ a {
 
 /* Facebook */
 .fa-facebook {
-  background: #3B5998;
-  color: white;
+  
 }
 
 /* Twitter */
 .fa-twitter {
-  background: #55ACEE;
-  color: white;
+  color: #55ACEE;
+  
 }
 
 .fa-instagram {
-  background: #fe4164;
-  color: white;
+  color: #fe4164;
+  
 }
 
 .fa-linkedin {
-  background: #007bb5;
-  color: white;
+  color: #007bb5;
+  
 }
 
 .fa-skype {
-  background: #00aff0;
-  color: white;
+  color: #00aff0;
+  
 }
 
 .fa-whatsapp {
-  background: #4ac959;
-  color: white;
+  color: #4ac959;
+  
 }
 
 .fa-telegram {
-  background: #0088cc;
-  color: white;
+  color: #0088cc;
+  
 }
 
 .fa-mail-reply-all {
-  background: #00aff0;
-  color: white;
+  color: #00aff0;
+  
 }
