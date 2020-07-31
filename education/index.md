@@ -1,7 +1,7 @@
 [<--Home](https://www.adivardhan.tech)
 
 > ##  BE in Electronics and Communication (C.G.P.A: 8.27)
-> ### [Shri Ramdeobaba College of Engineering and Management, Nagpur](www.rknec.edu)
+> ### Shri Ramdeobaba College of Engineering and Management, Nagpur <br>[www.rknec.edu](www.rknec.edu)
 > ### 2017-2021
 >> ### Course Details and Marksheets
 >> #### [Semester 1](/education/marksheets/Semester1.pdf)
