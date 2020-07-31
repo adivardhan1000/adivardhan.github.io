@@ -1,6 +1,6 @@
 ---
 title: Education
-layout: home
+
 ---
 [Home](https://www.adivardhan.tech) 
 
