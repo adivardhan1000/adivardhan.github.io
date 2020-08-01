@@ -1,6 +1,7 @@
 ---
 title: GSM Home Based Automation
 ---
-dkjfdhs
-<iframe src="https://drive.google.com/file/d/13fSqAMKgC9WsqBPHD0dj4L2yUOFxo-Fy/preview" align="center" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/11PA533RKThWCSAv9NB-dTQxP_kOavFo8/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1_KmKbOJZLH6DdN0RkcOsrkcMPUDahE-P/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/13fSqAMKgC9WsqBPHD0dj4L2yUOFxo-Fy/preview" width="640" height="480"></iframe>
 
