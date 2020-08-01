@@ -6,7 +6,7 @@ title: Education
 > ### Shri Ramdeobaba College of Engineering and Management, Nagpur <br>[www.rknec.edu](https://www.rknec.edu)
 > ### 2017-2021
 >> ### Course Details and Marksheets
->> #### [Semester 1](/education/marksheets/Semester1.pdf)
+>> #### [Semester 1](https://drive.google.com/file/d/1uyfztaeZHCGo3WYmdknWMktLp0Xn_7QP/view?usp=sharing)
 >> #### [Semester 2](/education/marksheets/Semester2.pdf)
 >> #### [Semester 3](/education/marksheets/Semester3.pdf)
 >> #### [Semester 4](/education/marksheets/Semester4.pdf)
