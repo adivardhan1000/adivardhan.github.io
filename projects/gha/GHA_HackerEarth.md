@@ -1,4 +1,6 @@
-[<--Home](https://www.adivardhan.tech)
+---
+title: Home Automation HackerEarth Submission
+---
 
 ## Objective:
 		* To develop a non-expensive Home control/Automation Solution

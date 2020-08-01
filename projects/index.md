@@ -1,4 +1,6 @@
-[<--Home](https://www.adivardhan.tech)
+---
+title: Projects
+---
 
 # Electronics Based Projects
 > ## GSM Based Home Automation

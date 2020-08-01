@@ -1,2 +1,3 @@
-[<--Home](https://www.adivardhan.tech)
-
+---
+title: GSM Home Based Automation
+---
