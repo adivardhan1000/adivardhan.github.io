@@ -7,11 +7,11 @@ title: Education
 > ### 2017-2021
 >> ### Course Details and Marksheets
 >> #### [Semester 1](https://drive.google.com/file/d/1uyfztaeZHCGo3WYmdknWMktLp0Xn_7QP/view?usp=sharing){:target="_blank"}
->> #### [Semester 2](https://drive.google.com/file/d/1nXPBbSLqQ1FHaAt8YQPl_QJbZeP1PjGM/view?usp=sharing)
->> #### [Semester 3](https://drive.google.com/file/d/1kHmIJM-t7KpUH1gsm7dUmAfLj1KMdKz9/view?usp=sharing)
->> #### [Semester 4](https://drive.google.com/file/d/1iN6FrxwyGG7lHCbwrXfq0AdAkBqRB4GW/view?usp=sharing)
->> #### [Semester 5](https://drive.google.com/file/d/1KFibwOMLyYIvkTHTKNeIUhTZj85LCjjk/view?usp=sharing)
->> #### [Semester 6](https://drive.google.com/file/d/1rPip-niaEGBx_45mlkqUu3D6Tm6W-vme/view?usp=sharing)
+>> #### [Semester 2](https://drive.google.com/file/d/1na_SQTGCCQG36H0qwlLR-TY7Iu-VqCGf/view?usp=sharing){:target="_blank"}
+>> #### [Semester 3](https://drive.google.com/file/d/1erCyOQ3lJcalHVyU0YaMnKY2KwnZqHkI/view?usp=sharing){:target="_blank"}
+>> #### [Semester 4](https://drive.google.com/file/d/1VTuhOLWG6eg6zrQx8Jcub4wgpM4tP2P5/view?usp=sharing){:target="_blank"}
+>> #### [Semester 5](https://drive.google.com/file/d/1p-iN96FmLGMeBv2m5wKWZtYuzgmLg5SY/view?usp=sharing){:target="_blank"}
+>> #### [Semester 6](https://drive.google.com/file/d/1ubJjKPki6KM_rQQh0j5s1A-jx18e0AB5/view?usp=sharing){:target="_blank"}
 >> #### [Semester 7](/education/marksheets/Semester7.pdf)
 >> #### [Semester 8](/education/marksheets/Semester8.pdf)
 >
