@@ -1,69 +1,79 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
+
+<head>
     <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     {% if site.google_analytics %}
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-      <script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+    <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+        function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
         gtag('config', '{{ site.google_analytics }}');
-      </script>
+    </script>
     {% endif %}
     <meta charset="UTF-8">
 
-{% seo %}
+    {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-  </head>
-  <body>
+</head>
+
+<body>
     <a id="skip-to-content" href="#content">Changed</a>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
-      <a href="{{ site.github.repository_url }}" class="btn">Education</a>
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
+        <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+        <h2 class="project-tagline">
+            {{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+        {% if site.github.is_project_page %}
+            <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+        {% endif %}
+        
+        {% if site.show_downloads %}
+            <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
+            <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
+        {% endif %}
+
+        <a href="/education/index" class="btn">Education</a>
+        <a href="/projects/index" class="btn">Projects</a>
+
     </header>
 
     <main id="content" class="main-content" role="main">
-      {{ content }}
+        {{ content }}
 
-      
 
-      <footer class="site-footer">
-          <span class="main-content" style="font-size:40px">
-            <a target="_blank" href="https://bit.ly/adivardhan_facebook" class="fa fa-facebook"></a>
-            <a target="_blank" href="https://bit.ly/adivardhan_twitter" class="fa fa-twitter"></a>
-            <a target="_blank" href="https://bit.ly/adivardhan_instagram" class="fa fa-instagram"></a>
-            <a target="_blank" href="https://bit.ly/adivardhan_linkedin" class="fa fa-linkedin"></a>
-            <a target="_blank" href="https://bit.ly/adivardhan_skype" class="fa fa-skype"></a>
-            <a target="_blank" href="https://bit.ly/adivardhan_whatsapp" class="fa fa-whatsapp"></a>
-            <a target="_blank" href="https://bit.ly/adivardhan_telegram" class="fa fa-telegram"></a>
-            <a target="_blank" href="mailto:maheshwariaa_1@rknec.edu" class="fa fa-mail-reply-all"></a><br>
+
+        <footer class="site-footer">
+            <span class="main-content" style="font-size:40px">
+                <a target="_blank" href="https://bit.ly/adivardhan_facebook" class="fa fa-facebook"></a>
+                <a target="_blank" href="https://bit.ly/adivardhan_twitter" class="fa fa-twitter"></a>
+                <a target="_blank" href="https://bit.ly/adivardhan_instagram" class="fa fa-instagram"></a>
+                <a target="_blank" href="https://bit.ly/adivardhan_linkedin" class="fa fa-linkedin"></a>
+                <a target="_blank" href="https://bit.ly/adivardhan_skype" class="fa fa-skype"></a>
+                <a target="_blank" href="https://bit.ly/adivardhan_whatsapp" class="fa fa-whatsapp"></a>
+                <a target="_blank" href="https://bit.ly/adivardhan_telegram" class="fa fa-telegram"></a>
+                <a target="_blank" href="mailto:maheshwariaa_1@rknec.edu" class="fa fa-mail-reply-all"></a><br>
             </span>
-        {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-        {% endif %}
+            {% if site.github.is_project_page %}
+            <span class="site-footer-owner"><a
+                    href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a
+                    href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+            {% endif %}
 
-        <span class="site-footer-credits">
-            
-            Hey there..! This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.
-        </span>
-      </footer>
+            <span class="site-footer-credits">
+
+                Hey there..! This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.
+            </span>
+        </footer>
     </main>
-  </body>
+</body>
+
 </html>
