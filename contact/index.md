@@ -5,8 +5,7 @@ title: Contact Me
 
 <form
   action="https://formspree.io/xvowljkl"
-  method="POST"
->
+  method="POST">
   <label>
     Your email:
     <input type="text" name="_replyto">
