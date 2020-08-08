@@ -2,10 +2,13 @@
 title: GSM Home Based Automation
 ---
 Not optimised for mobile.If viewing from mobile, Please request desktop version for better viewing experience.
-<div class="iframe-container">
+
 <iframe src="https://drive.google.com/file/d/11PA533RKThWCSAv9NB-dTQxP_kOavFo8/preview" width="320" height="240"></iframe>
 <iframe src="https://drive.google.com/file/d/1_KmKbOJZLH6DdN0RkcOsrkcMPUDahE-P/preview" width="320" height="240"></iframe>
 <iframe src="https://drive.google.com/file/d/13fSqAMKgC9WsqBPHD0dj4L2yUOFxo-Fy/preview" width="320" height="240" frameborder="0"></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4t0JxiBeO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen></iframe>
+<div>
+    <iframe src="https://drive.google.com/file/d/13fSqAMKgC9WsqBPHD0dj4L2yUOFxo-Fy/preview" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
 </div>
+
 
