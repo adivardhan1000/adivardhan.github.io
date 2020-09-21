@@ -11,8 +11,10 @@ title: Projects
 > ## Wireless PS2 Remote Controlled 2WD 3 Wheel Robot Car
 > ### This was my first complete projects which involved programming Arduino Uno to take commands from a PS2 Controller and drive a robot car.
 >> ### [PS2 Remote Controlled 2WD 3 Wheel Robot Car](/projects/uno_ps2_wireless_robotcar)
+
 > ## Mini-Projects:
 > ### FM Transmitter, Clap ON/OFF circuit, Automatic Upper Dipper
+
 # Computer Science based Projects
 > ## Library Management System
 > ### Project done under ArTech Innovations
