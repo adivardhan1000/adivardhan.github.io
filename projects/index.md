@@ -2,7 +2,7 @@
 title: Projects
 ---
 
-# <u>Software Development Projects</u>
+# Software Development Projects
 > ## <u>Library Management System</u>
 > ### Project done under ArTech Innovations
 > ### Based on HTML,CSS for frontend and Django, PostgreSQL for the backend.
