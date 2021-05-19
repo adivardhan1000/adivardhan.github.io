@@ -2,7 +2,23 @@
 title: Projects
 ---
 
-# Electronics based Projects
+# <u>Software Development Projects</u>
+> ## <u>Library Management System</u>
+> ### Project done under ArTech Innovations
+> ### Based on HTML,CSS for frontend and Django, PostgreSQL for the backend.
+
+> ## <u>Frontend Hotel Website</u>
+> ### This is was my first hands on experience to using HTML and CSS to design a HTML-CSS based website. 
+>> ### Take a look [here](/projects/abchotels/)
+
+> ## Mini-Automation Scripts
+> ### Creating a list of Automation programs here to simplify daily tasks
+>> ### Take a look [here](https://github.com/adivardhan1000/python-gui-contron-pynput-puautogui)
+
+> ## <u>Mini-projects on Python:</u>
+> ### Predicting House Prices with Regression using TensorFlow <br> Basic Image Classification with TensorFlow <br> First Chatbot with Rasa and Python <br> DNA Translation
+
+# Electronics and IOT Projects
 > ## <u>GSM Based Home Automation</u>
 > ### This project was tested using Proteus and Implemented on a stripped down version of Arduino using Atmega328P. <br> Sim900D module was used as GSM Module <br>
 >> ### [GSM Based Home Automation Hackerearth Hackathon submission](/projects/gha/GHA_HackerEarth)
@@ -18,19 +34,3 @@ title: Projects
 
 > ## <u>Mini-Projects:</u>
 > ### FM Transmitter, Clap ON/OFF circuit, Automatic Upper Dipper
-
-# Computer Science based Projects</u>
-> ## <u>Library Management System</u>
-> ### Project done under ArTech Innovations
-> ### Based on HTML,CSS for frontend and Django, PostgreSQL for the backend.
-
-> ## <u>Frontend Hotel Website</u>
-> ### This is was my first hands on experience to using HTML and CSS to design a HTML-CSS based website. 
->> ### Take a look [here](/projects/abchotels/)
-
-> ## Mini-Automation Scripts
-> ### Creating a list of Automation programs here to simplify daily tasks
->> ### Take a look [here](https://github.com/adivardhan1000/python-gui-contron-pynput-puautogui)
-
-> ## <u>Mini-projects on Python:</u>
-> ### Predicting House Prices with Regression using TensorFlow <br> Basic Image Classification with TensorFlow <br> First Chatbot with Rasa and Python <br> DNA Translation
