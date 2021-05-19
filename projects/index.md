@@ -13,7 +13,7 @@ title: Projects
 
 > ## Mini-Automation Scripts
 > ### Creating a list of Automation programs here to simplify daily tasks
->> ### Take a look [here](https://github.com/adivardhan1000/python-gui-contron-pynput-puautogui)
+>> ### Take a look [here](https://github.com/adivardhan1000/automation-scripts)
 
 > ## <u>Mini-projects on Python:</u>
 > ### Predicting House Prices with Regression using TensorFlow <br> Basic Image Classification with TensorFlow <br> First Chatbot with Rasa and Python <br> DNA Translation
