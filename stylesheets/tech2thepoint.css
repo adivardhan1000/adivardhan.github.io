@@ -110,60 +110,21 @@ section li {
     margin-bottom: 20px;
 }
 
-/* footer styles */
-footer {
-    background-color: #333;
-    color: #fff;
-    padding: 20px;
-    text-align: center;
+form {
+    background-color: #fff;
+    padding: 40px;
+    margin-bottom: 40px;
 }
 
-/* additional styles */
-button {
-    background-color: #333;
-    color: #fff;
-    border: none;
-    padding: 10px 20px;
-    font-size: 18px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-}
-
-button:hover {
-    background-color: #e6e6e6;
-    color: #333;
-}
-
-input[type="text"],
-input[type="email"],
-textarea {
-    width: 100%;
-    padding: 10px;
-    font-size: 18px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    box-sizing: border-box;
+form h2 {
+    margin-top: 0;
+    font-size: 28px;
+    font-weight: bold;
     margin-bottom: 20px;
 }
 
-label {
-    display: block;
-    font-size: 18px;
-    font-weight: bold;
-    margin-bottom: 10px;
-}
-
-textarea {
-    height: 150px;
-}
-
-form {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
 form label {
+    display: block;
     font-size: 18px;
     font-weight: bold;
     margin-bottom: 10px;
@@ -174,28 +135,37 @@ form input[type="email"],
 form textarea {
     width: 100%;
     padding: 10px;
-    font-size: 16px;
+    font-size: 18px;
     border-radius: 5px;
-    border: none;
+    border: 1px solid #ccc;
     margin-bottom: 20px;
-}
-
-form textarea {
-    height: 150px;
 }
 
 form input[type="submit"] {
     background-color: #333;
     color: #fff;
-    font-size: 18px;
-    font-weight: bold;
-    border-radius: 5px;
     border: none;
     padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
     cursor: pointer;
-    transition: background-color 0.3s ease;
 }
 
 form input[type="submit"]:hover {
-    background-color: #555;
+    background-color: #e6e6e6;
+    color: #333;
+}
+
+form ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+form li:before {
+    content: "\2022";
+    color: #333;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
 }
