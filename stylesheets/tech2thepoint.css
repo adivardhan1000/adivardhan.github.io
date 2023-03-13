@@ -42,14 +42,14 @@ nav li {
 }
 
 nav a {
-    color: #fff;
+    color: #000000;
     text-decoration: none;
     font-size: 18px;
 }
 
-nav a:hover {
+/* nav a:hover {
     color: #e6e6e6;
-}
+} */
 
 /* section styles */
 section {
@@ -74,7 +74,6 @@ section p {
 section ul {
     margin: 0;
     padding: 0;
-    list-style: none;
 }
 
 section li {
@@ -134,30 +133,21 @@ label {
     display: block;
 }
 
-input[type="text"],
-textarea {
+form input[type="text"],
+form input[type="email"],
+form textarea {
     padding: 10px;
     border-radius: 5px;
     border: none;
     margin-bottom: 20px;
     width: 100%;
+    padding: 10px;border-radius: 5px;border: 1px solid #ccc;
 }
 
 textarea {
     height: 150px;
 }
 
-
-form input[type="text"],
-form input[type="email"],
-form textarea {
-    width: 100%;
-    padding: 10px;
-    font-size: 18px;
-    border-radius: 5px;
-    border: 1px solid #ccc;
-    margin-bottom: 20px;
-}
 
 form input[type="submit"] {
     background-color: #333;
