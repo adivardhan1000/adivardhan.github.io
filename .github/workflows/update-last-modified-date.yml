@@ -15,7 +15,8 @@ jobs:
 
       - name: Update Last Modified Date
         run: |
-          sed -i "s/Last modified: .*/Last modified: $(date '+%Y-%m-%d %H:%M:%S')/" index.html
+          sed -i "s/<h4>Last Modified: .*<\/h4>/<h4>Last Modified: $(date '+%dth %B, %Y')<\/h4>/" index.html
+
 
       - name: Commit changes
         run: |
