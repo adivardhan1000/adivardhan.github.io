@@ -314,22 +314,3 @@ a {
 .fa-github{
   color: black;
 }
-
-.feed-panel {
-  position: fixed;
-  top: 0;
-  right: 0;
-  width: 300px;
-  height: 100%;
-  background-color: #f5f5f5;
-  overflow-y: scroll;
-  padding: 20px;
-  box-sizing: border-box;
-}
-
-.feed-item {
-  margin-bottom: 20px;
-  padding: 10px;
-  background-color: #fff;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
