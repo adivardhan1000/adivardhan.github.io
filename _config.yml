@@ -24,7 +24,7 @@ linkedin_username: 'linkedin.com/in/adivardhan'
 
 # Build settings
 markdown: kramdown
-theme: phantom # Uncomment once published to RubyGems
+theme: jekyll-theme-phantom # Uncomment once published to RubyGems
 plugins:
   - jekyll-paginate
 
