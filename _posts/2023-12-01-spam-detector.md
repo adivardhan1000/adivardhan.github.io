@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Spam Detector'
-date: 2023-13-01
+date: 2023-12-01
 categories: machine-learning
 tags: Flask ML
 project_link: 'https://github.com/adivardhan1000/Spam-Detector/'
