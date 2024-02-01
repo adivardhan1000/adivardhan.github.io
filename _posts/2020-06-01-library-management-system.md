@@ -11,5 +11,3 @@ project_link: '/projects'
 button_text: View all projects
 lead_text: 'Project done under ArTech Innovations to develop a library management system to help transition schools to an online medium. Django based webapp.'
 ---
-
-Test
