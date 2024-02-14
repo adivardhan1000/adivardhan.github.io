@@ -1,0 +1,17 @@
+{% assign limit = page.limit_projects | plus: 0 %}
+{% if limit > 0 %}
+  {% assign posts_to_display = site.posts  | slice: 0, limit  %}
+{% else %}
+  {% assign posts_to_display = site.posts %}
+{% endif %}
+{% for post in posts_to_display %}
+<div class="wow fadeIn">
+  <div class="post">
+    <h3 class="post-title" data-toggle="collapse" data-target="#post{{ forloop.index }}">{{ post.title }}</h3>
+    <div id="post{{ forloop.index }}" class="collapse">
+      <!-- Content of the post -->
+      {% include content-right.html %}
+    </div>
+  </div>
+</div>
+{% endfor %}
