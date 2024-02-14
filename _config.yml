@@ -104,6 +104,3 @@ nav_item:
   - { url: '/MyJourney', text: 'My Journey' }
   - { url: '/Education', text: 'Education'}
   - { url: '/about', text: 'about'}
-
-collections:
-  -posts
