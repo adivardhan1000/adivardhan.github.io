@@ -11,11 +11,12 @@ permalink: /Education/
 -  **Duration:** Fall 2022-present
 
 ### Certifications:
-- **Ethical Hacking (LinkedIn Learning):**
+- Ethical Hacking (LinkedIn Learning):
   - [Introduction to Ethical Hacking](https://www.linkedin.com/learning/certificates/fffa9c7762c83d0085abf91c33d60bd1119004bd4bb2c7a5f911a5c0ae4e06ae?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BJl1a95LgTzqAA2UiEonuIA%3D%3D)
   - [Footprinting and Reconnaissance](https://www.linkedin.com/learning/certificates/1c0fc562c9b41bf94103135c168858accec27a66c047075824b890fbf1397226?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BJl1a95LgTzqAA2UiEonuIA%3D%3D)
   - [Scanning Networks](https://www.linkedin.com/learning/certificates/81f3767873d1c67ca0a69da9efe7c37748d3e3588b1accf1eee452d89567be02?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BJl1a95LgTzqAA2UiEonuIA%3D%3D)
 - [Foundations of Cybersecurity - Google @ Coursera](https://coursera.org/verify/WEE6GAR7UUJM)
+- [Google Cloud Leader](https://www.credly.com/badges/12c27ed3-5ee8-48be-9db3-c0a581b12489/linked_in_profile?trk=public_profile_see-credential)
 
 ## BE in Electronics and Communication (C.G.P.A: 8.27)
 - **Institution:** Shri Ramdeobaba College of Engineering and Management, Nagpur

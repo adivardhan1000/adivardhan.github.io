@@ -103,4 +103,4 @@ nav_item:
   - { url: '/projects', text: 'Projects' }
   - { url: '/MyJourney', text: 'My Journey' }
   - { url: '/Education', text: 'Education'}
-  - { url: '/about', text: 'about'}
+  # - { url: '/about', text: 'about'}
