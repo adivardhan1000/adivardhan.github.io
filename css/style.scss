@@ -441,3 +441,20 @@ pre {
     .highlight .vg { color: #000000 } /* Name.Variable.Global */
     .highlight .vi { color: #000000 } /* Name.Variable.Instance */
     .highlight .il { color: #0000cf; font-weight: bold } /* Literal.Number.Integer.Long */
+
+
+    nav a {
+      display: inline-block;
+      text-decoration: none;
+      color: #000; /* Default color */
+      position: relative;
+      transition: color 0.3s ease;
+    }
+
+    nav a:hover {
+      color: transparent; /* Makes the text transparent to show the gradient */
+      background: linear-gradient(45deg, #ff6ec4, #7873f5, #4cd8f0, #ff6ec4); /* Gradient colors */
+      -webkit-background-clip: text; /* Clips the gradient to text */
+      background-clip: text;
+      -webkit-text-fill-color: transparent; /* Fixes the issue with Safari */
+    }
