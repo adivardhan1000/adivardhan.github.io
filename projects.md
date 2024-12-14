@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: Education
+title: Projects
 permalink: /projects/
 pagination:
   enabled: true
