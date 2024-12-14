@@ -10,6 +10,8 @@
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
+
+    <!-- Include Posts (Projects) -->
     {% for post in site.posts limit:10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
@@ -25,5 +27,23 @@
         {% endfor %}
       </item>
     {% endfor %}
+
+    <!-- Include Blogs -->
+    {% for blog in site.blogs limit:10 %}
+      <item>
+        <title>{{ blog.title | xml_escape }}</title>
+        <description>{{ blog.content | xml_escape }}</description>
+        <pubDate>{{ blog.date | date_to_rfc822 }}</pubDate>
+        <link>{{ blog.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <guid isPermaLink="true">{{ blog.url | prepend: site.baseurl | prepend: site.url }}</guid>
+        {% for tag in blog.tags %}
+        <category>{{ tag | xml_escape }}</category>
+        {% endfor %}
+        {% for cat in blog.categories %}
+        <category>{{ cat | xml_escape }}</category>
+        {% endfor %}
+      </item>
+    {% endfor %}
+
   </channel>
 </rss>
